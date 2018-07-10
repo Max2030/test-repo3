@@ -1,5 +1,5 @@
 import { TestBed, inject } from '@angular/core/testing';
-import { Observable, of } from 'rxjs';
+
 import { HeroService } from './hero.service';
 
 describe('HeroService', () => {
